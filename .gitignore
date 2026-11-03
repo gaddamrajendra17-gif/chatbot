@@ -1,0 +1,23 @@
+# Secrets / local config
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+env1/
+
+# Chat logs
+chat_history.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
